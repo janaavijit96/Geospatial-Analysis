@@ -1,4 +1,5 @@
 # Geospatial-Analysis
 GeoPandas Tutorial: An Introduction to Geospatial Analysis.
 <br>
-Author - Avijit Jana
+Author - Avijit (GIS Developer)
+
